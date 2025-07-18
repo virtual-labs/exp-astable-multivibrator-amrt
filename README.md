@@ -4,11 +4,11 @@
 <b>Discipline | <b> Physical Science
 :--|:--|
 <b> Lab | <b> Harmonic Motion and Waves
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> Astable multivibrator
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Design and set up an astable multivibrator and calculate the time period and duty cycle of the output wave form.
 
 <b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
