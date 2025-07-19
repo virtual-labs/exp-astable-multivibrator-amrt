@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The two output waves of an astable multivibrator are ------------ degrees out of phase with each other.",
+      "answers": {
+        "a": "90",
+        "b": "180",
+        "c": "270",
+        "d": "0"
+      },
+      "explanations": {
+        "a": "Incorrect—this phase difference is not typical.",
+        "b": "Correct—one transistor is ON while the other is OFF.",
+        "c": "270° phase difference is not applicable here.",
+        "d": "Incorrect—they are not in phase."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The frequency of oscillation of an astable multivibrator depends on",
+      "answers": {
+        "a": "value of collector load resistor",
+        "b": "RC values of the circuit",
+        "c": "value of transistor β",
+        "d": "width of the input pulse"
+      },
+      "explanations": {
+        "a": "Collector resistor affects voltage swing, not frequency directly.",
+        "b": "Correct—the RC time constant controls charging/discharging rate.",
+        "c": "β affects gain, but not frequency.",
+        "d": "No input pulse in astable mode—it oscillates on its own."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In an astable multivibrator",
+      "answers": {
+        "a": "β = 1",
+        "b": "β > 1",
+        "c": "β < 1",
+        "d": "βA = 1"
+      },
+      "explanations": {
+        "a": "A β of 1 is insufficient for switching.",
+        "b": "Correct—β must be high enough to ensure saturation and cutoff transitions.",
+        "c": "Insufficient gain—transistor won’t switch properly.",
+        "d": "Applies to oscillation criteria, not directly relevant here."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

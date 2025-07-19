@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+     {
+      "question": "Multivibrator circuits are basically two-stage amplifiers with",
+      "answers": {
+        "a": "positive feedback",
+        "b": "negative feedback",
+        "c": "both positive and negative feedback",
+        "d": "no feedback"
+      },
+      "explanations": {
+        "a": "Positive feedback is used in multivibrators to maintain or change states rapidly.",
+        "b": "Negative feedback stabilizes amplifiers, not suitable for multivibrators.",
+        "c": "Only positive feedback is used.",
+        "d": "Feedback is essential in multivibrators to maintain oscillation or bistability."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "An astable multivibrator has",
+      "answers": {
+        "a": "one stable state",
+        "b": "two stable states",
+        "c": "no stable states",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "Monostable multivibrator has one stable state.",
+        "b": "Bistable multivibrator has two stable states.",
+        "c": "Astable has no stable states—it keeps toggling.",
+        "d": "Incorrect—astable has no stable states."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
