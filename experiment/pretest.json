@@ -1,36 +1,36 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+     {
+      "question": "Multivibrator circuits are basically two-stage amplifiers with",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "positive feedback",
+        "b": "negative feedback",
+        "c": "both positive and negative feedback",
+        "d": "no feedback"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Positive feedback is used in multivibrators to maintain or change states rapidly.",
+        "b": "Negative feedback stabilizes amplifiers, not suitable for multivibrators.",
+        "c": "Only positive feedback is used.",
+        "d": "Feedback is essential in multivibrators to maintain oscillation or bistability."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "An astable multivibrator has",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "one stable state",
+        "b": "two stable states",
+        "c": "no stable states",
+        "d": "none of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Monostable multivibrator has one stable state.",
+        "b": "Bistable multivibrator has two stable states.",
+        "c": "Astable has no stable states—it keeps toggling.",
+        "d": "Incorrect—astable has no stable states."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
